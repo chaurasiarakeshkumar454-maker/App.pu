@@ -1,0 +1,8 @@
+# My First API
+This is a simple Flask API I built while learning backend development.
+
+## How to run
+1. pip install flask
+2. python app.py
+
+Planning to deploy this on Civo K3s cluster.
